@@ -16,6 +16,7 @@ const Hero = () => {
   return (
     <div className="">
       <div className="container mx-auto py-10 ">
+        
 
         <div className="font-semibold text-white  space-y-4 gap-4 text-6xl  ">
           <h1
